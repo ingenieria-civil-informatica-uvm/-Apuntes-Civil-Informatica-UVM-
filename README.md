@@ -8,7 +8,7 @@
 
 ### 📘 Primer Año
 
-* **Semestre I:** Taller de Informática, Algoritmos y Programación, Introducción a la Física, Expresión Oral y Escrita, Introducción a la Matemática.
+* **Semestre I:** Taller de Informática, Algoritmos y Programación, Introducción a la Física, Expresión Oral y Escrita, Introducción a la Matemática, Uso de tics.
   
 * **Semestre II:** Programación Estructurada, Administración Estratégica, Álgebra, Gestión Personal, Organización y Sistemas, Herramientas y Métodos Básicos para el Trabajo Científico.
   
